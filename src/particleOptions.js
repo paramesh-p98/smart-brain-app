@@ -39,7 +39,7 @@ export const particleOptions = {
     },
     links: {
       color: "#ffffff",
-      distance: 200,
+      distance: 170,
       enable: true,
       opacity: 0.6,
       width: 1,
