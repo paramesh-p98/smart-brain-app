@@ -39,7 +39,7 @@ export const particleOptions = {
     },
     links: {
       color: "#ffffff",
-      distance: 170,
+      distance: 150,
       enable: true,
       opacity: 0.6,
       width: 1,
@@ -58,7 +58,7 @@ export const particleOptions = {
     number: {
       density: {
         enable: true,
-        value_area: 800,
+        value_area: 900,
       },
       value: 60,
     },
