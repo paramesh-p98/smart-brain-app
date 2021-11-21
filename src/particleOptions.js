@@ -4,7 +4,7 @@ export const particleOptions = {
   //     value: "#0d47a1",
   //   },
   // },
-  fpsLimit: 90,
+  fpsLimit: 60,
   // interactivity: {
   //   events: {
   //     onClick: {
@@ -39,7 +39,7 @@ export const particleOptions = {
     },
     links: {
       color: "#ffffff",
-      distance: 200,
+      distance: 150,
       enable: true,
       opacity: 0.6,
       width: 1,
@@ -60,7 +60,7 @@ export const particleOptions = {
         enable: true,
         value_area: 800,
       },
-      value: 70,
+      value: 60,
     },
     opacity: {
       value: 0.5,
